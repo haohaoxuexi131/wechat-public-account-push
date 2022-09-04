@@ -4,17 +4,17 @@ export const config = {
    */
 
   // 公众号APP_ID
-  APP_ID: "",
+  APP_ID: "wxe7d481f8401a0b12",
 
   // 公众号APP_SECRET
-  APP_SECRET: "",
+  APP_SECRET: "4500e2c65d90fd000aa331b2f5f16508",
 
   /**
    * 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如
    * [
    *  {
    *    // 想要发送的人的名字
-   *    name: "老婆0",
+   *    name: "拾柒",
    *    // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
    *    id: "ohxOO6VskYv0Kuf-ywIZVRMpuXhk",
    *    // 你想对他发送的模板消息的模板ID
@@ -24,7 +24,7 @@ export const config = {
    *   }, 
    * ]
    */
-  USERS: [
+  USERS: [zoooe1573
     {
       // 想要发送的人的名字
       name: "老婆0",
